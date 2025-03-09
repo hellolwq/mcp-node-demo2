@@ -1,0 +1,11 @@
+{
+  "name": "mcp-node-demo2",
+  "version": "1.0.0",
+  "description": "A simple Node.js Hello World example with package.json and README",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "hellolwq",
+  "license": "ISC"
+}
